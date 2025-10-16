@@ -20,4 +20,12 @@
 * **Avaliações**: Feedback dos clientes sobre a experiência
 * **Interatividade**: Com JavaScript, elementos da página possuem animações e respostas a ações do usuário
 
+---
 
+## Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo conforme necessário.
+
+---
+
+Desenvolvido por Thais
